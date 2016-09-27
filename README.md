@@ -1,6 +1,7 @@
 A simple exercise using shell commands to create a prescribed directory structure.
 
 familyTree Folder Structure created using familyMatters.sh
+
 └── grandpa
     ├── README.txt
     ├── ma
