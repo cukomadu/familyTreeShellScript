@@ -1,4 +1,6 @@
+A simple exercise using shell commands to create a prescribed directory structure.
 
+familyTree Folder Structure created using familyMatters.sh
 └── grandpa
     ├── README.txt
     ├── ma
@@ -12,4 +14,4 @@
         ├── martin.gif
         └── peace.gif
 
-4 directories, 9 files
+4 directories, 8 files
