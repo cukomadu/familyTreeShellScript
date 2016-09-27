@@ -1,5 +1,4 @@
-.
-├── README.md
+
 └── grandpa
     ├── README.txt
     ├── ma
